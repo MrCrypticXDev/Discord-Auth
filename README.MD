@@ -1,4 +1,4 @@
-# discord-auth
+# Discord-Auth
 
 Library for interacting with [Discord](https://discord.com) OAuth2.0, using passport strategy. 
 
